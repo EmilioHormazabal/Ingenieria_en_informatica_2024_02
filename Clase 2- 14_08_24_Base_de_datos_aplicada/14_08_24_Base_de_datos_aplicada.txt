@@ -1,0 +1,23 @@
+Entidad: Representa objeto, hecho, situacion (Intangible o tangible), en MAYUSCULA
+
+Puede ser; 	Fuerte (no dependiente)
+		Debil (dependiente)
+
+Atributo: Caracteristicas de las entidades (Describir), en minuscula, dependiendo contexto singular o plural
+ Se clasifican
+ 
+ tipo de datos
+ obligatoriedad
+
+* Evitar ocupar caracteres especiales
+* Debe comenzar con letra
+
+String = varchar
+precision = la cantidad de digitos que tiene un numero, ej: 1024,6 = 1024,6
+escala = cantidad de decimales que tiene un numero, ej: 1024,6 = 6 (los decimales)
+
+clave primaria = identifica a un elemento de otro, para que no se puedan repetir
+
+Relacion: unir bidireccional entre 2 entidades
+
+Cardinalidad: es como se relacionan, numero minimo o maximo de una relacion, el minimo es 1, el maximo es infinito
