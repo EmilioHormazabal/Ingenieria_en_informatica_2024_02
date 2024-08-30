@@ -1,0 +1,12 @@
+SQL Data Modeler (Hay que registrarse para descargar)
+
+Entidad: Representa cosa, objeto o concepto
+
+Modelo conceptual datos / Modelo entidad relacion (MER)
+Representacion grafica de los datos a almacenar
+
+Entidad fuerte (No depende de nadie para existir, ej: Nombre de empresa)
+Entidad debil (Depende de la existencia de una instancia, ej: Ubicacion)
+
+* Buscar Atributo base de datos
+* Buscar Relacion base de datos
